@@ -17,3 +17,7 @@ https://cauealvesoliveira.github.io/Projeto-academico-portfolio/portfolio
  * Frontend: HTML e CSS
  * Serviços externos: GitHub
  * Ferramentas de modelagem: Draw.io para criação de diagramas
+
+   ---
+
+   Este projeto, foi o segundo contato que tive com HTML e CSS, devido a isso, não está maravilhoso de lindo e não possui responsividade nenhuma.
