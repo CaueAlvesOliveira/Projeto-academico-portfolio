@@ -8,8 +8,8 @@ O repositório contém:
 2. Documentação do Projeto
 3. Apresentação do Projeto
 
-O portfolio/site foi desenvolvido em HTML e CSS, no VScode e hospedado no github em:
-https://cauealvesoliveira.github.io/Portfolio/portfolio  
+O portfolio/site foi desenvolvido em HTML e CSS, no VScode e hospedado no github em:                                                           
+https://cauealvesoliveira.github.io/Projeto-academico-portfolio/portfolio  
 
 ---
 
